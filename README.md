@@ -1,4 +1,35 @@
-# Material
+# Angular Material Demo
+
+`ng new material-demo`
+
+`cd material-dem0/`
+
+`ng add @angular/material`
+
+The CLI will ask you a few questions:
+
+1. Choose a theme: 
+
+        I chose 'custom'
+
+2. Set up browser animations
+        
+        Yes
+
+3. Install HammerJS
+
+        Yes
+        
+
+https://www.linkedin.com/learning/angular-material-design-2/
+        
+https://material.angular.io/guide/getting-started     
+
+https://material.angular.io/components/categories
+
+
+
+   
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.8.
 
