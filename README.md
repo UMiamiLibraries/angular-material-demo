@@ -2,21 +2,29 @@
 
 `ng new material-demo`
 
-`cd material-dem0/`
+`cd material-demo/`
 
 `ng add @angular/material`
 
-The CLI will ask you a few questions:
+The CLI will ask you a few questions (not necessarily in this order):
 
-1. Choose a theme: 
+1. Use Routing
+
+        Yes
+        
+2. CSS or SCSS
+
+        whichever you want        
+
+3. Choose a theme: 
 
         I chose 'custom'
 
-2. Set up browser animations
+4. Set up browser animations
         
         Yes
 
-3. Install HammerJS
+5. Install HammerJS
 
         Yes
         
